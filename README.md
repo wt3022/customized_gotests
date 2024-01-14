@@ -1,0 +1,2 @@
+# customized_gotests
+俺の考えたさいきょうのgotests
